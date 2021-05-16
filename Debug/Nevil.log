@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mattw\Documents\Uni\Object Oriented Games Programming\Nevil\main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mattw\Documents\Uni\Object Oriented Games Programming\Nevil\main.cpp(236,19): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  Nevil.vcxproj -> C:\Users\mattw\Documents\Uni\Object Oriented Games Programming\Nevil\Debug\Nevil.exe
